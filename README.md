@@ -3,7 +3,7 @@ Account Generator is an app to make and generate Amino Accounts without any hard
 
 ## How to use?
 Just put a nickname to the account and a password and click send code, now it will get the code to verify the account, just put the code in the input and click create
-After Clicking on create account the account will be saved in a json file `/storage/emulated/0/AccountGenerator/accounts.json`
+After Clicking on create account, the account will be saved in a json file `/storage/emulated/0/AccountGenerator/accounts.json`
 
 **Don't worry!** every account that you create will be added to the file
 
